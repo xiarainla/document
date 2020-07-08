@@ -1,4 +1,4 @@
 # document
 
-* [contents](./README.md)
+* [contents](./readme.md)
   * [markdown](./markdown/readme.md)
