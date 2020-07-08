@@ -19,3 +19,5 @@ un**believa**ble
 但是如果你的 * 和 _ 两边都有空白的话，它们就只会被当成普通的符号。如果要在文字前后直接插入普通的星号或底线，你可以用反斜线：
 
 \*this text is surrounded by literal asterisks\*
+
+/play rumble
