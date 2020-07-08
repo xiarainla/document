@@ -7,6 +7,6 @@
 * [divider](./divider.md)
 * [quote](./quote.md)
 * [link](./link.md)
-* [table](./table.md)* [title](./title.md)
+* [table](./table.md)
 * [picture](./picture.md)
 
