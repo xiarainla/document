@@ -9,4 +9,4 @@
 * [link](./link.md)
 * [table](./table.md)
 * [picture](./picture.md)
-
+* [emoji](./emoji.md)
