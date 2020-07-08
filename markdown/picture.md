@@ -32,3 +32,10 @@ Figure 1. Lena
 Figure 1. Lena
 </center>
 
+<center>
+<img src="./image/img1.jpg" />
+Figure 1. Lena
+</center>
+
+https://github.com/xiarainla/document/blob/master/markdown/image/img1.jpg
+
