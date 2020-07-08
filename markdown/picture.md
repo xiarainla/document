@@ -15,8 +15,8 @@
 直接以MarkDown插入图片的方法，图片就会靠在左侧，大小也不由自己决定：
 <img src="https://github.com/xiarainla/document/blob/master/markdown/image/img1.jpg.jpg"/>
 
-固定图片显示大小：
-<img src="https://github.com/xiarainla/document/blob/master/markdown/image/img1.jpg" width=256 height=256 />
+# 固定图片显示大小：
+# <img src="https://github.com/xiarainla/document/blob/master/markdown/image/img1.jpg" width=256 height=256 />
 
 根据一定比例显示
 <img src="https://github.com/xiarainla/document/blob/master/markdown/image/img1.jpg" width="50%" height="50%" />
@@ -31,11 +31,4 @@ Figure 1. Lena
 <img src="https://github.com/xiarainla/document/blob/master/markdown/image/img1.jpg" />
 Figure 2. Lena
 </center>
-
-<center>
-<img src="https://github.com/xiarainla/document/blob/master/markdown/image/img1.jpg" />
-Figure 3. Lena
-</center>
-
-
 
