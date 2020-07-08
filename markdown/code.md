@@ -21,6 +21,13 @@ function test() {
 ```
 
 四、语法突显
+
+  ```ruby
+  require 'redcarpet'
+  markdown = Redcarpet.new("Hello World!")
+  puts markdown.to_html
+  ```
+
 ```ruby
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
