@@ -11,3 +11,18 @@ A single backtick in a code span: `` ` ``
 A backtick-delimited string in a code span: `` `foo` ``
 
 Please don't use any `<blink>` tags.
+
+三、通过在代码块的前后输入三反引号 ```，可创建围栏代码块
+
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
+
+四、语法突显
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
