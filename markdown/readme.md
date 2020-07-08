@@ -1,4 +1,4 @@
 * [..](../readme.md)
-  * [table](./table.md)
-  * [picture](./picture.md)
+* [table](./table.md)
+* [picture](./picture.md)
 
