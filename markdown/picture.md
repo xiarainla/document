@@ -34,7 +34,7 @@ Figure 1. Lena
 
 <center>
 <img src="https://github.com/xiarainla/document/blob/master/markdown/image/img1.jpg" />
-Figure 1. Lena
+Figure 2. Lena
 </center>
 
 
