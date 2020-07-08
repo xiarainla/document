@@ -3,7 +3,7 @@
 一、行内式
 
 ![图片1](./image/img1.jpg "Optional title")
-![图片2](http://g.hiphotos.baidu.com/image/h%3D300/sign=b5e4c905865494ee982209191df4e0e1/c2cec3fdfc03924590b2a9b58d94a4c27d1e2500.jpg)
+![图片2](https://github.com/xiarainla/document/blob/master/markdown/image/img1.jpg)
 
 二、参考式
 
