@@ -1,12 +1,13 @@
-要在 Markdown 中建立代码区块很简单，只要简单地缩进 4 个空格或是 1 个制表符就可以，例如，下面的输入：
-这是一个普通段落：
+一、如果要标记一小段行内代码，你可以用反引号把它包起来(`)
 
-This is a normal paragraph:
+Use the `printf()` function.
 
-    This is a code block.
+二、如果要在代码区段内插入反引号，你可以用多个反引号来开启和结束代码区段
 
-Here is an example of AppleScript:
+``There is a literal backtick (`) here.``
 
-    tell application "Foo"
-        beep
-    end tell
+A single backtick in a code span: `` ` ``
+
+A backtick-delimited string in a code span: `` `foo` ``
+
+Please don't use any `<blink>` tags.
