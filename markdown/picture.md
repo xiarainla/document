@@ -28,7 +28,7 @@ Figure 1. Lena
 </center>
 
 <center>
-<img src="http://g.hiphotos.baidu.com/image/h%3D300/sign=b5e4c905865494ee982209191df4e0e1/c2cec3fdfc03924590b2a9b58d94a4c27d1e2500.jpg" />
+<img src="https://github.com/xiarainla/document/blob/master/markdown/image/img1.jpg" />
 Figure 1. Lena
 </center>
 
