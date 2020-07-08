@@ -1,10 +1,10 @@
 一、行内式
 
-     ![图片1](./image/img1.jpg "Optional title")
-     ![图片2](https://github.com/xiarainla/document/blob/master/markdown/image/img1.jpg)
+     ![1](./image/img1.jpg "Optional title")
+     ![2](https://github.com/xiarainla/document/blob/master/markdown/image/img1.jpg)
 
-![图片1](./image/img1.jpg "Optional title")
-![图片2](https://github.com/xiarainla/document/blob/master/markdown/image/img1.jpg)
+![1](./image/img1.jpg "Optional title")
+![2](https://github.com/xiarainla/document/blob/master/markdown/image/img1.jpg)
 
 二、修改图片大小
 
